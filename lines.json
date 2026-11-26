@@ -1,0 +1,29 @@
+{
+  "routes": [
+    {
+      "id": "main",
+      "name": "主站",
+      "badge": "主入口",
+      "url": "https://aaa.hqtk.cc/",
+      "healthUrl": "https://aaa.hqtk.cc/api/health"
+    },
+    {
+      "id": "route-1",
+      "name": "线路一",
+      "url": "https://xj1.hqtk.cc/",
+      "healthUrl": "https://xj1.hqtk.cc/api/health"
+    },
+    {
+      "id": "route-2",
+      "name": "线路二",
+      "url": "https://xj2.hqtk.cc/",
+      "healthUrl": "https://xj2.hqtk.cc/api/health"
+    },
+    {
+      "id": "route-3",
+      "name": "线路三",
+      "url": "https://xj3.hqtk.cc/",
+      "healthUrl": "https://xj3.hqtk.cc/api/health"
+    }
+  ]
+}
